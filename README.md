@@ -1,7 +1,7 @@
 
 ## Recent Projects 👨‍💻
 
-### [CFD GPU Acceleration in Rust](https://github.com/Mengcer/CFD_GPU_Acceleration_RUST)&nbsp;&nbsp;&nbsp;<sub>TileLang Sparse SIMT · Rust fr-core · NVIDIA L40S FP32 (up to 1.35× 3D Tet step speedup)</sub>
+### [CFD GPU Acceleration in Rust](https://github.com/Mengcer/CFD_GPU_Acceleration_RUST)&nbsp;&nbsp;&nbsp;<sub>Rust · TileLang · CUDA · High-Order Flux Reconstruction (2D Cylinder & 3D TGV)</sub>
 <img src="./assets/cfd_tilelang.gif" alt="CFD GPU Acceleration in Rust with TileLang" width="100%"/>
 
 
