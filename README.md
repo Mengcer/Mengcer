@@ -23,6 +23,26 @@
 <img src="./assets/rocket_simulation.gif" alt="UKSEDS NRC KCLRT 6-DOF Rocket Simulation" width="100%"/>
 
 
+## Coursework Projects 🎓
+
+### Alcohol Distillation Process Simulation (5CCE2HMT)&nbsp;&nbsp;&nbsp;<sub>MATLAB · Coupled Film Condensation & Nucleate Boiling · Ethanol–Water Phase Equilibrium (Private Repo)</sub>
+
+A steady-state conjugate heat and mass transfer simulation investigating the **alcohol (ethanol–water) distillation process** across a horizontal stainless-steel heating plate, coupling Gerstmann–Griffith laminar film condensation (with Rohsenow condensate-subcooling correction) and Kutateladze nucleate boiling across operating steam temperatures and ethanol concentrations.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/03_phase_diagram_wall_temps.png" alt="Ethanol-Water Phase Diagram and Boiling Wall Temperatures" width="100%"/>
+      <p align="center"><sub>Ethanol–water T–x–y phase diagram (0.10 MPa) with simulated boiling wall superheat profiles</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/05_water_properties.png" alt="Saturated Water Thermophysical Property Interpolation" width="100%"/>
+      <p align="center"><sub>Saturated water thermophysical property interpolation across target steam temperatures</sub></p>
+    </td>
+  </tr>
+</table>
+
+
 ## Languages and Tools:
 
 <p>
